@@ -2,7 +2,7 @@
 
 - To use this project it's necessary to previously have a collection in firebase called "articulos" or name it whatever you want but then you'll need to change the code to correspond to that collection 😄
 
-- Also `google-services.json` file is needed, that's a private file, so you'll need to generate your own based on your firebase project.
+- Also `google-services.json` file is needed, that's a private file, so you'll need to generate your own based on your firebase project, then put it in `app/src/`.
 
 # Screenshots
 

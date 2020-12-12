@@ -1,4 +1,4 @@
-package com.example.lab05_cloud_firestore;
+package com.example.native_android_firebase_crud;
 
 import org.junit.Test;
 

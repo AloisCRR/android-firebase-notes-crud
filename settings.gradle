@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Lab05_Cloud_Firestore"
+rootProject.name = "native_android_firebase_crud"

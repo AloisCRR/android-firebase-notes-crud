@@ -1,10 +1,9 @@
-package com.example.lab05_cloud_firestore;
+package com.example.native_android_firebase_crud;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
